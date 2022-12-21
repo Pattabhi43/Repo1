@@ -1,0 +1,4 @@
+cd ..
+touch file1
+chmod 777 file1
+chown ec2-user:user1 file1
